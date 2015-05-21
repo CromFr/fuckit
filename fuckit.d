@@ -21,7 +21,6 @@ enum dchar[] encodeMap = [
 	'⁤',//U+2064
 	'　',//U+3000
 	'﻿',//U+FEFF
-	'󠀠',//U+E0020
 
 	//rtl/ltr
 	'‏',//U+200F
