@@ -31,7 +31,7 @@ _Samples:_
 Clear and Encoded versions of the [Git Pro Book History of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git) are provided in res folder
 
 _Decode a message:_
-[ ‭ ⁢ ‮                       ⁢ ‮     ⁣ ‪ ​ ﻿   ‏ ⁤ ‪       ‪ ‫   ⁤   ⁤ ‫ ​]
+[   ﻿ ⁦     　     ⁤   ⁤       ﻿ ⁦     ‏   ⁣ ⁧   ‪ ‫   ⁤       ⁧   ‫   ‫ ⁧ ​]
 
 - Select the message with brackets included (invisible 0-width and right to left characters are tricky)
 - Paste it in a text editorn remove the brackets with `HOME` - `DELETE` - `END` - `BACKDELETE` and save the file
