@@ -27,7 +27,10 @@ cat obfuscatedDataFile | fuckit decode
 
 
 # Example
-_Message:_
+_Samples:_
+Clear and Encoded versions of the [Git Pro Book History of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git) are provided in res folder
+
+_Decode a message:_
 [ ‭ ⁢ ‮               ‏     ‏ ⁤ ‪       ‪       ‭   ⁤ ‏ ​ ‪ ​]
 
 - Select the message with brackets included (invisible 0-width and right to left characters are tricky)
