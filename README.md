@@ -1,8 +1,18 @@
 # fuckit
 Encode files with invisible characters
 
+## Running it
 
-# Usage
+#####Require:
+- A D compiler,usually dmd (available in most linux distro package list)
+
+#####Build it:
+```bash
+make
+```
+
+
+## Usage
 
 fuckit takes stdin, encode/decode it, then outputs the result to stdout
 
